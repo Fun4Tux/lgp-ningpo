@@ -27,11 +27,11 @@
 </tr>
 <tr>
 <td>Demoversion</td>
-<td><a href="http://demos.fun4tux.ch/ningpo/">Demo f&uuml;r NingPo MahJong</a>, <a href="http://updates.fun4tux.ch/ningpo-demo/">Updates f&uuml;r die Demo</a></td>
+<td><a href="http://demofiles.linuxgamepublishing.com/ningpo/">Demo f&uuml;r NingPo MahJong</a>, <a href="http://updatefiles.linuxgamepublishing.com/ningpo-demo/">Updates f&uuml;r die Demo</a></td>
 </tr>
 <tr>
 <td>Updates</td>
-<td><a href="http://updates.fun4tux.ch/ningpo/">Updates f&uuml;r NingPo MahJong</a></td>
+<td><a href="http://updatefiles.linuxgamepublishing.com/ningpo/">Updates f&uuml;r NingPo MahJong</a></td>
 </tr>
 <tr>
 <td>Zustand<br /></td>
