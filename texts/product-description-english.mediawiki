@@ -1,0 +1,81 @@
+==Preview==
+<p>Play the classic game of strategy, with a stylish interface, mellow music, and hundreds of play variations, over a dozen board styles and 9 tile sets.</p>
+
+==Text==
+<p><strong>About the Game</strong></p>
+<p>Pyrogon delivers its take on the classic tile-matching solitaire game! Don't be fooled into thinking that this is "just another clone", because it's far more than that! NingPo Mah Jong provides outstanding art work, great music, and awesome game play while still retaining the elements that make this game so great - simplicity and fun!</p>
+<hr />
+<p><strong>General information</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Age rating<br /></td>
+<td>0+</td>
+</tr>
+<tr>
+<td>Language of the dvd-box</td>
+<td>English</td>
+</tr>
+<tr>
+<td>Language of the manual</td>
+<td>English<br /></td>
+</tr>
+<tr>
+<td>Language of the game</td>
+<td>English</td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td><a href="http://demos.fun4tux.ch/ningpo/">Demo for NingPo MahJong</a>, <a href="http://updates.fun4tux.ch/ningpo-demo/">Updates for the Demo</a></td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updates.fun4tux.ch/ningpo/">Updates for NingPo MahJong</a></td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>Brand new</td>
+</tr>
+<tr>
+<td>Content</td>
+<td>CD-Rom in a DVD box</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<hr />
+<p><strong>Minimum Requirements<br /></strong></p>
+<table border="0" cellspacing="5" cellpadding="5">
+<tbody>
+<tr>
+<td>Processor<br /></td>
+<td>166 MHz x86 Processor<br /></td>
+</tr>
+<tr>
+<td>Graphics Card<br /></td>
+<td>Graphics card with 4 MB video memory<br /></td>
+</tr>
+<tr>
+<td>Memory</td>
+<td>32 MB</td>
+</tr>
+<tr>
+<td>Disc Space<br /></td>
+<td>4 MB</td>
+</tr>
+<tr>
+<td>Sound Card</td>
+<td>OSS compatible</td>
+</tr>
+<tr>
+<td>Optical Drive</td>
+<td>4 x CD Rom<br /></td>
+</tr>
+<tr>
+<td>Operating System<br /></td>
+<td>
+<p>GNU/Linux x86 system (x64/amd64 systems through 32 bit emulation layer only), 2.2.x or better Linux kernel with glibc-2.1 or later and X-Windows (XFree86 3.3.x or later)</p>
+</td>
+</tr>
+</tbody>
+</table>
